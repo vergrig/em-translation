@@ -3,7 +3,11 @@ Statistical Machine Translation using EM algorithm
 
 # Contents
 
-**preprocessing.py** - methods used to read an alignment dataset from xml file
+**process_xml.py** - methods used to read alignment data from xml files
+
+**alignment_metrics.py** - metrics used to compare word alignments
+
+**em_models.py** - WordAligner class 
 
 # Credits
 
