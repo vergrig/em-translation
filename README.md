@@ -1,7 +1,7 @@
 # EM-translation
 Statistical Machine Translation using EM algorithm
 
-# Contents
+# Scripts
 
 **process_xml.py** - methods used to read alignment data from xml files
 
